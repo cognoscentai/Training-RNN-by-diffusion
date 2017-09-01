@@ -5,7 +5,7 @@
 
 ## Project Overview
 
-In this project we implement, thorugh the routines offered by TensorFlow, the new algorithm contained in [1]. 
+In this project we implement, through the routines offered by TensorFlow, a new algorithm contained in [1]. 
 It is well known that global minimization of the loss energy related to a Neural Network is a hard task, because
 of the several local minima that characterize the energy landscape. Several techniques such as drop out and gradient momentum
 have been introduced to mitigate the disadvantages due to gradient descent minimization.
